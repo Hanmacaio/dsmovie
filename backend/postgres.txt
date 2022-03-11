@@ -1,0 +1,10 @@
+postgres://
+fdrepoelaihdsx
+:
+a26ca170fa714a82696fdd659e7b0042189666f07dd77debae80c5d77d87f872
+@
+ec2-44-192-245-97.compute-1.amazonaws.com
+:
+5432
+/
+d33odgf3luabgv
